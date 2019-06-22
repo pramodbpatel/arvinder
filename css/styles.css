@@ -1,0 +1,15 @@
+.navbar-default {
+  border: none;
+  margin-bottom: 0px;
+}
+
+.default-button{
+  width:200px; 
+  height:35px;
+  margin-bottom: 5px;
+}
+
+.background-grey{
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
